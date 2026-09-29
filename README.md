@@ -64,9 +64,3 @@ requirements.txt    Python libraries
 ## What this project does not do
 
 The models label what is in a single satellite photo. They do not measure forest loss over time, and they do not decide whether an activity is illegal. Most images are ordinary forest, the photos are only from the Amazon, and the four runs did not all share one validation set.
-
-## Credits
-
-Project by **Jonathan Guo**.
-
-The notebooks are adapted from course material by **Indu Panigrahi and Carlos Jimenez** and from [Vincent Maladière's ResNet18 notebook](https://www.kaggle.com/code/vincentmaladiere/pytorch-resnet18-0-93).
