@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local write-up. These stay on disk and are not part of the repo.
+Deliverables/
+*.docx
+*.pptx
+
+# Competition files and anything a notebook downloads at runtime.
+train_v2.csv
+train_classes.csv
+*.tar.gz
+amazon-dataset-split-*/
+*.pt
+*.results
